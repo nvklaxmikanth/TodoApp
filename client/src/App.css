@@ -1,0 +1,33 @@
+.App {
+  justify-content: center;
+  margin: 100px auto;
+  margin-top: 100px;
+  margin-bottom: 100px;
+  max-width: 400px;
+}
+
+.task {
+  margin-bottom: 10px;
+}
+.text {
+  padding-top: 6px;
+}
+.content {
+  margin-left: 0;
+  display: flex;
+  justify-content: space-between;
+}
+
+.icons {
+  float: right;
+}
+
+a {
+  text-decoration: none;
+  color: black;
+}
+
+a:visited {
+  text-decoration: none;
+  color: black;
+}
